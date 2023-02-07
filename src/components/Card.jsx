@@ -1,8 +1,6 @@
 import dev from '../images/dev.png'
 export default function Card() {
     return (
-
-        
         <div className='w-[175px] font-popins mt-6 bg-slate-600'>
             <img src={dev} alt=""  className='w[100%] rounded-full border-2'/>
             <div>
